@@ -1,0 +1,30 @@
+{
+  "name": "panorama-to-cubemap",
+  "version": "1.0.1",
+  "description": "converting 360 or panorama or equirectangular images to cubemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inaveendev <inaveen.dev@gmail.com> (https://inaveen.dev)",
+  "homepage": "https://github.com/inaveendev/panorama-to-cubemap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inaveendev/panorama-to-cubemap.git"
+  },
+  "keywords": [
+    "panorama to cubemap",
+    "equirectangular to cubemap",
+    "360 image to cubemap",
+    "panorama",
+    "cubemap",
+    "360",
+    "equirectangular",
+    "image",
+    "images"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.4.1"
+  }
+}
