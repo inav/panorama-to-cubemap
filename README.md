@@ -61,3 +61,8 @@ convertImage(url,options).then(x=>{
 })
 
 ```
+
+### Thanks
+
+[jaxry](https://github.com/jaxry/) </br>
+[Revlity](https://revlity.com/)
