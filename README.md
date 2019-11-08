@@ -62,6 +62,9 @@ convertImage(url,options).then(x=>{
 
 ```
 
+## TO-DO
+Multi Threading
+
 ### Thanks
 
 [jaxry](https://github.com/jaxry/) </br>
