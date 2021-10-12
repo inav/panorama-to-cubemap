@@ -38,7 +38,7 @@ function convertImage( src, options){
             width : Infinity
         }
     }
-    if(!options.rotation){
+    if(options.rotation === undefined){
         options.rotation = 180
     }
     if(!options.interpolation){
